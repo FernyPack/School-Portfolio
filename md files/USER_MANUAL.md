@@ -1,4 +1,5 @@
-SAGE\n
+SAGE
+
 Welcome to the SAGE! This application is designed to help you efficiently organize and manage your tasks, whether you are a professional or a student. With a user-friendly interface and customizable features, this app aims to enhance your productivity and reduce the stress associated with managing multiple tasks.
 
 Installation
